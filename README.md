@@ -20,13 +20,17 @@
 了那么多，看看我们的上位机。由于我以前用的别人的上位机都是色调比较单一的，而我，又是那种比较活泼开朗的人，觉得单一的灰色调比较死沉，我不喜欢，当然那是别做的上位机，即使再不喜欢，还是要用，没办法，现在我自己做的就不一样了，得给他做个五颜六色出来。
 ![](http://bbs.21ic.com/forum.php?mod=attachment&aid=OTQ0NzMwfDdjNDQ4YzE0fDE1MzMxMjg3NDR8MTg3NTc4OHwyMzg4MjA0)
 ![](http://bbs.21ic.com/forum.php?mod=attachment&aid=OTQ0NzMyfDY4M2Y2MGY5fDE1MzMxMjg3NDR8MTg3NTc4OHwyMzg4MjA0)
+
 上面两张图片，我们可以很直观看出，温度在不断上升，在调试信息窗口，我们可以看到当前的温度。
 在波形控制台，我们可以很清晰看出温度波形曲线是呈上升状态的，因为还没到我们设定的温度。在调试窗口的最下面
 我们可以设置恒温控制系统空间的温度。然后下位机就能根据我们设定的温度去达到温度的恒定。
 ![](http://bbs.21ic.com/forum.php?mod=attachment&aid=OTQ0NzM0fGQ3NzJjMzVlfDE1MzMxMjg3NDR8MTg3NTc4OHwyMzg4MjA0)
+
 当我们的温度达到目标温度的时候，下位机就会控制自己的温度，以保持温度恒定，同时在上位机显示看到温度为一条曲线，由于我设置的温度为整数，没有小数，但是我们通过下位机可以看到实时的温度，精确在0.4范围左右。
 ![](http://bbs.21ic.com/forum.php?mod=attachment&aid=OTQ0NzM2fDE3ZmFkYTAwfDE1MzMxMjg3NDR8MTg3NTc4OHwyMzg4MjA0)
+
 当我们把上位机与下位机通讯协议切断，可以看到上位机接受不到数据（在软件右下角粉红色的窗口，没有显示接收到的数据），上位机的波形就会回到默认值（0°），就是上图的样子
 ![](http://bbs.21ic.com/forum.php?mod=attachment&aid=OTQ0NzQyfDI3NmEzZDQ5fDE1MzMxMjg3NDR8MTg3NTc4OHwyMzg4MjA0)
 ![](http://bbs.21ic.com/forum.php?mod=attachment&aid=OTQ0NzQ0fGUzMDIzM2E5fDE1MzMxMjg3NDR8MTg3NTc4OHwyMzg4MjA0)
+
 当我们需要后期的检测与排除故障的时候，我们可以从我们保存的温度来做简单的排查，上位机自动保存的温度数据，精确到某天某时某分某秒，简单方便。也是一个很实用的功能当没什么故障的时候，我们只需要隔一段时间吧数据清一下就OK了。
