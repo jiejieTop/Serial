@@ -22,3 +22,17 @@ F:\Visual_Studio\恒温控制系统上位机\恒温系统上位机\恒温系统�
 F:\Visual_Studio\恒温控制系统上位机\恒温系统上位机\恒温系统上位机\obj\Debug\恒温系统上位机.Form1.resources
 F:\Visual_Studio\恒温控制系统上位机\恒温系统上位机\恒温系统上位机\obj\Debug\恒温控制系统上位机.Properties.Resources.resources
 F:\Visual_Studio\恒温控制系统上位机\恒温系统上位机\恒温系统上位机\obj\Debug\恒温系统上位机.csproj.GenerateResource.Cache
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\bin\Debug\恒温控制系统上位机.exe.config
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\bin\Debug\恒温控制系统上位机.exe
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\bin\Debug\恒温控制系统上位机.pdb
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\bin\Debug\TCPLibrary.dll
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\obj\Debug\恒温系统上位机.csprojAssemblyReference.cache
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\obj\Debug\Interop.NATUPNPLib.dll
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\obj\Debug\恒温系统上位机.csproj.ResolveComReference.cache
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\obj\Debug\恒温系统上位机.Form1.resources
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\obj\Debug\恒温控制系统上位机.Properties.Resources.resources
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\obj\Debug\恒温系统上位机.csproj.GenerateResource.cache
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\obj\Debug\恒温系统上位机.csproj.CoreCompileInputs.cache
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\obj\Debug\恒温系统上位机.csproj.CopyComplete
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\obj\Debug\恒温控制系统上位机.exe
+F:\jiejieTop\Serial\恒温系统上位机\恒温系统上位机\obj\Debug\恒温控制系统上位机.pdb
